@@ -321,7 +321,7 @@ a:hover {
     transform: translate3d(0, 0, 0);
     /* Set your background with this */
     background: #48aefd url("images/golf.png") bottom left;
-    background-repeat: repeat-x;
+    background-repeat: none;
     height: 100%;
     left: 0;
     opacity: 1;
@@ -390,8 +390,8 @@ a:hover {
 }
 
 #bg {
-    background-size: 2250px auto;
-    width: 6750px;
+    background-size: 1500px auto;
+    width: 1500px;
 }
 
 
