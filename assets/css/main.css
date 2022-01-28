@@ -349,6 +349,9 @@ pre code {
   padding: 1em 1.5em;
   overflow-x: auto;
 }
+.tech-stack {
+  width: 16em;
+}
 .profile {
   width: 24em;
 }
